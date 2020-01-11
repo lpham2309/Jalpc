@@ -1,30 +1,46 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Welltok
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Working as a part of Acumen team for developing campaigns
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: July 2019 - Present
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Associate Software Engineer
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: Wentworth Institute of Technology
     i18n: company_b
   desc:
     detail: I worked at Company B ...
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: January 2018 - Present
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Research Assistant
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: Visible System Corporation
+    i18n: company_b
+  desc:
+    detail: I worked at Company B ...
+    i18n: company_b_desc
+  date:
+    detail: June 2016 - September 2016
+    i18n: company_b_date
+  job:
+    detail: Software Engineering Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+
+  
